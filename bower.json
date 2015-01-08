@@ -1,0 +1,10 @@
+{
+  "name": "althyk",
+  "version": "0.1.0",
+  "main": "dist/althyk.js",
+  "ignore": [
+    ".eslintrc",
+    "package.json",
+    "test/**"
+  ]
+}
